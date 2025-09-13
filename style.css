@@ -70,7 +70,7 @@ body {
   width: 25px;
   height: 100%;
   background-image: radial-gradient(circle, #1e1e2f 6px, transparent 7px);
-  background-size: 25px 45px;
+  background-size: 25px 55px;
   background-repeat: repeat-y;
   background-position: center;
   pointer-events: none;
@@ -84,6 +84,7 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
 
