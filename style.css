@@ -77,13 +77,14 @@ body {
 }
 .signature {
   position: absolute;
-  bottom: -05px;
+  bottom: 0px;
   right: 6px;
   width: 140px;
   opacity: 0.9;
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
 
