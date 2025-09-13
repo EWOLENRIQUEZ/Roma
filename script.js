@@ -1,4 +1,4 @@
-const message = `There were days I wished—when I was with you—that time would trip on its toes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `There were days I wished—when I was with you—that time would trip on its toes.\nSo that I can spend more hours with you and pace my walk slower\nI just missed the way we wait for the jeeps of divisoria, and sending you off in isettan just to know your safe. \n\n I don't know what future holds, but I know life was kind enough that she sent you.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,4 +21,5 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
