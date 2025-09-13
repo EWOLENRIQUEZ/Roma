@@ -1,4 +1,4 @@
-const message = `There were days I wished—when I was with you—that time would trip on its toes.\nSo that I can spend more hours with you and pace my walk slower\nI just missed the way we wait for the jeeps of divisoria, and sending you off in isettan just to know your were safe. \n\n I don't know what future holds, but I know life was kind enough that she sent you.`;
+const message = `There were days I wished—when I was with you—that time would trip on its toes, so that I can spend more hours with you and pace my walk slower. \n\nI just missed the way we wait for the jeeps of Divisoria, and sending you off in Isettan just to know your were safe. \n\n I don't know what future holds, but I know life was kind enough that she sent you. \n\n Happy Birthday Roma, I wish you all the sparks in the world `;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,6 +21,7 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
 
